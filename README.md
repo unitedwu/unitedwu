@@ -1,5 +1,4 @@
-Hi, my name is Felix Walter! <br>
-Student Computer Science at University Leipzig
+Student of Computer Science at University Leipzig
 
 
 <!---
